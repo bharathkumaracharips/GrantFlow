@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "services/matching-engine",
+    "services/api",
+    "services/indexer",
+]
+resolver = "2"
