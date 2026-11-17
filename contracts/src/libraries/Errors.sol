@@ -2,7 +2,7 @@
 pragma solidity ^0.8.24;
 
 /// @title Errors
-/// @notice Standard custom errors for the Quadratic Funding Platform
+/// @notice Standard custom errors for GrantFlow
 library Errors {
     error Unauthorized();
     error ZeroAddress();

@@ -2,7 +2,7 @@
 
 ## 1. Overview
 
-This document formally specifies the invariants that the **Quadratic Funding Protocol** must maintain at all times across all contract execution states and off-chain calculation outputs.
+This document formally specifies the invariants that the **GrantFlow Protocol** must maintain at all times across all contract execution states and off-chain calculation outputs.
 
 ---
 

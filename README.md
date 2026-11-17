@@ -1,4 +1,4 @@
-# Quadratic Funding Platform
+# GrantFlow
 
 An enterprise-grade, round-based, Sybil-resistant Quadratic Funding protocol built for EVM-compatible blockchains. The platform implements capital-constrained Quadratic Voting / Quadratic Funding (CLR) with off-chain deterministic calculation, optimistic Merkle tree dispute windows, and decentralized community governance.
 
@@ -64,7 +64,7 @@ flowchart TD
 ├── frontend/                   # Next.js 15 App Router web application
 │   ├── src/app/                # Landing, Project Discovery, Rounds, Donation, and Dashboard
 │   └── src/lib/                # Wagmi / Viem contract clients and ABIs
-├── packages/sdk/               # @quadratic-funding/sdk TypeScript client
+├── packages/sdk/               # @grantflow/sdk TypeScript client
 ├── docs/                       # Architectural specifications, threat model, math, and invariants
 │   ├── architecture/
 │   │   ├── system-overview.md

@@ -2,7 +2,7 @@
 pragma solidity ^0.8.24;
 
 /// @title ProtocolConstants
-/// @notice Global constants and bounds for the Quadratic Funding protocol
+/// @notice Global constants and bounds for the GrantFlow protocol
 library ProtocolConstants {
     uint256 internal constant WAD = 1e18;
     uint256 internal constant MAX_FEE_BPS = 500; // 5% max fee cap

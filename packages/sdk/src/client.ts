@@ -11,7 +11,7 @@ export interface ProtocolDeploymentConfig {
   disputeManager: Address;
 }
 
-export class QuadraticFundingClient {
+export class GrantFlowClient {
   public publicClient;
   public config: ProtocolDeploymentConfig;
 
@@ -27,3 +27,5 @@ export class QuadraticFundingClient {
     return this.config;
   }
 }
+
+export { GrantFlowClient as QuadraticFundingClient };

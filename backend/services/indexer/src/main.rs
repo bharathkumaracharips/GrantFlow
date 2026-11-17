@@ -68,7 +68,7 @@ async fn main() {
         .finish();
     tracing::subscriber::set_global_default(subscriber).expect("setting default subscriber failed");
 
-    info!("Starting Quadratic Funding Blockchain Event Indexer...");
+    info!("Starting GrantFlow Blockchain Event Indexer...");
 
     let mut indexer = BlockchainIndexer::new();
 

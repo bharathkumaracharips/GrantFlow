@@ -167,7 +167,7 @@ async fn main() {
         .layer(cors);
 
     let addr = SocketAddr::from(([0, 0, 0, 0], 8080));
-    info!("Quadratic Funding REST API listening on {}", addr);
+    info!("GrantFlow REST API listening on {}", addr);
 
     let listener = tokio::net::TcpListener::bind(addr).await.unwrap();
     axum::serve(listener, app).await.unwrap();

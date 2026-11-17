@@ -1,7 +1,7 @@
 {
-  "name": "@quadratic-funding/sdk",
+  "name": "@grantflow/sdk",
   "version": "0.1.0",
-  "description": "TypeScript SDK for the Quadratic Funding Platform",
+  "description": "TypeScript SDK for the GrantFlow Quadratic Funding Platform",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {

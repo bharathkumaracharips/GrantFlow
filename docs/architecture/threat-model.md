@@ -1,8 +1,8 @@
-# Quadratic Funding Protocol — Threat Model & Security Architecture
+# GrantFlow Protocol — Threat Model & Security Architecture
 
 ## 1. Scope & Objective
 
-This document analyzes adversaries, vulnerability vectors, and mitigation controls across the Quadratic Funding Platform. The platform combines economic incentive models, off-chain calculation pipelines, cryptographic attestations, and on-chain EVM contracts.
+This document analyzes adversaries, vulnerability vectors, and mitigation controls across GrantFlow. The platform combines economic incentive models, off-chain calculation pipelines, cryptographic attestations, and on-chain EVM contracts.
 
 ---
 

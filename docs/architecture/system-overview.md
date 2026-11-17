@@ -1,8 +1,8 @@
-# Quadratic Funding Protocol — System Architecture & Specification
+# GrantFlow Protocol — System Architecture & Specification
 
 ## 1. Executive Summary & Platform Objectives
 
-The **Quadratic Funding Platform** is an enterprise-grade, round-based public goods funding protocol engineered for Ethereum Virtual Machine (EVM) compatible networks. It implements Capital-constrained Quadratic Voting / Quadratic Funding (CLR) as formulated by Buterin, Hitzig, and Weyl (2018), prioritizing the number of unique contributors over the raw financial magnitude of contributions.
+The **GrantFlow** protocol is an enterprise-grade, round-based public goods funding protocol engineered for Ethereum Virtual Machine (EVM) compatible networks. It implements Capital-constrained Quadratic Voting / Quadratic Funding (CLR) as formulated by Buterin, Hitzig, and Weyl (2018), prioritizing the number of unique contributors over the raw financial magnitude of contributions.
 
 ### Core Objectives
 1. **Democratic Capital Allocation**: Maximize matching funds for public goods that receive broad grassroots consensus.

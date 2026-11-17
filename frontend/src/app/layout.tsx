@@ -3,7 +3,7 @@ import Link from "next/link";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Quadratic Funding Platform",
+  title: "GrantFlow",
   description: "Democratic capital allocation for public goods with Sybil-resistant quadratic matching",
 };
 
@@ -20,9 +20,9 @@ export default function RootLayout({
             <div className="flex items-center gap-8">
               <Link href="/" className="flex items-center gap-2 font-bold text-xl tracking-tight text-white hover:text-blue-400 transition-colors">
                 <span className="w-8 h-8 rounded-lg bg-blue-600 flex items-center justify-center text-white font-black text-lg shadow-lg shadow-blue-500/20">
-                  Q
+                  G
                 </span>
-                Quadratic Funding
+                GrantFlow
               </Link>
               <nav className="hidden md:flex items-center gap-6 text-sm font-medium text-gray-400">
                 <Link href="/projects" className="hover:text-white transition-colors">Projects</Link>
@@ -44,7 +44,7 @@ export default function RootLayout({
         </main>
 
         <footer className="border-t border-gray-800 py-8 text-center text-xs text-gray-500">
-          <p>© 2026 Quadratic Funding Protocol. EVM Optimized • Sybil-Resistant • Merkle-Verified.</p>
+          <p>© 2026 GrantFlow Protocol. EVM Optimized • Sybil-Resistant • Merkle-Verified.</p>
         </footer>
       </body>
     </html>

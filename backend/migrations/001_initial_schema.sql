@@ -1,4 +1,4 @@
--- PostgreSQL Schema for Quadratic Funding Platform
+-- PostgreSQL Schema for GrantFlow
 
 CREATE TABLE IF NOT EXISTS projects (
     id BIGINT PRIMARY KEY,

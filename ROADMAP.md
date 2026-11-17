@@ -1,4 +1,4 @@
-# Quadratic Funding Platform — Development Roadmap
+# GrantFlow — Development Roadmap
 
 A round-based, Sybil-resistant Quadratic Funding protocol built for EVM with off-chain deterministic calculation, Merkle-based distribution proofs, and decentralized governance.
 

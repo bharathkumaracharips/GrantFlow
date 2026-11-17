@@ -5,7 +5,7 @@ import {GovernanceTimelock} from "./GovernanceTimelock.sol";
 import {Errors} from "../libraries/Errors.sol";
 
 /// @title FundingGovernor
-/// @notice Decentralized proposal, voting, and timelocked execution for the Quadratic Funding protocol
+/// @notice Decentralized proposal, voting, and timelocked execution for the GrantFlow protocol
 contract FundingGovernor {
     enum ProposalState {
         Pending,
